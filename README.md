@@ -2,4 +2,4 @@
 ##Testing gitflow
 ## Teaching Git
 ## making changes in the subticket branch
-### Making a personal correction 
+### I want to make an error to appear
